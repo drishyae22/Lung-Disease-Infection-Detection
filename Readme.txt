@@ -6,7 +6,7 @@ NEED OF THE MODEL:
 The previously proposed DL models require large amounts of data for training purposes, which could be challenging to obtain in pandemics like COVID-19. Therefore, a robust solution is required that efficiently works on small data and gives extraordinary results. I have combined two evolutionary algorithms to develop a hybrid model which can be trained with small datasets and still yields great accuracy.
 
 RESULTS:
-The model was trained on 2,338 images (comprising of 3 classes- Covid, Normal and Pneumonia) and tested on 553 images. It outperforms other existing methods in terms of accuracy of 98.32%.
+The model was trained on 3,337 images (comprising of 3 classes- Covid, Normal and Pneumonia) and tested on 553 images. It outperforms other existing methods in terms of accuracy of 98.32%.
 
 NOTE:
 The code has not been uploaded because the research paper is yet to be published.
